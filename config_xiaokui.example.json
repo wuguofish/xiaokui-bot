@@ -1,0 +1,7 @@
+{
+  "dmPolicy": "allowlist",
+  "allowFrom": ["YOUR_DISCORD_USER_ID"],
+  "channels": {
+    "YOUR_CHANNEL_ID": { "name": "general", "requireMention": true, "allowBotMention": true }
+  }
+}

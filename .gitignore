@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+temp/
+.env
+.env.*
+!.env.xiaokui.example
+
+# Private runtime config — see config_xiaokui.example.json
+config_xiaokui.json
